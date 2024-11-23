@@ -5,3 +5,6 @@ Inspired from module - Age of Worms - Three Faces of Evil, npc: Faceless One.
 
 ## Issues
 Thin legs - easily broken.
+
+![Faceless One](/Heroforge/FacelessOne/Faceless-screenshot.png)
+![Faceless One](/Heroforge/FacelessOne/Faceless-from-book.png)

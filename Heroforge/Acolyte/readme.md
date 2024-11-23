@@ -5,3 +5,5 @@ Inspired from module - Age of Worms - Three Faces of Evil, npc: Acolytes of Vecn
 
 ## Issues
 Thin legs - easily broken.
+
+![Acolyte render](/Heroforge/Acolyte/Acolyte-screenshot.png)

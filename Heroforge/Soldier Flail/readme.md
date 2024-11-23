@@ -5,3 +5,5 @@ Human male warrior 1 wielding Light Flail and Heavy Shield
 
 ## Benefits
 Flail and Heavy Shield are slightly merged into body giving sturdy build.
+
+![Soldier with Flail](/Heroforge/Soldier%20Flail/Sold%20Flail%20screenshot.png)
